@@ -1,3 +1,5 @@
-廖雪峰的git教程远程推送到github
+﻿廖雪峰的git教程远程推送到github
 
 我这里加一句话为了 证明切换分支
+
+Creating a new branch is quick AND simple.
